@@ -1,5 +1,5 @@
 #include <iostream>
-
+//struct is a value type, class is a reference type
 struct Rect
 {
     float length;
